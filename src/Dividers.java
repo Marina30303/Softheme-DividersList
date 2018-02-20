@@ -1,11 +1,7 @@
 import java.util.Scanner;
 
-/**
- * Created by Марiна on 19.02.2018.
- */
+
 public class Dividers {
-
-
     public static void dividers(int input)
     {
         for (int i = 1; i<=input; i++)
